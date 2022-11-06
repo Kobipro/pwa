@@ -1,0 +1,7 @@
+.link{
+    border: 1px solid black;
+  }
+  .link:hover{
+    color:blue ;
+    background-color: pink;
+  }
